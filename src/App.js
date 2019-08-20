@@ -14,7 +14,7 @@ const App = () => (
     <header className="header catalog__header">
       <div className="header_content">
         <NavLink exact to="/" className="header_logo">
-          <img src="/img/logo.png" alt="shop logo" />
+          <img src="img/logo.png" alt="shop logo" />
         </NavLink>
         <nav className="header_menu">
           <ul className="menu">
